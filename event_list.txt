@@ -1,0 +1,213 @@
+Which ones are feasible for me to do?
+-Diving, if just for the video of me failing
+-Individual swimming for sure, although not 10km
+-Possibly canoe/kayak, but I need to see exactly what it entails
+-BMX, if just for the video of me failing
+-Mountain biking, if I can track down a mountain bike
+-Road cycling
+-Gymnastics, if just for the video of me failing
+-Archery
+-Most "Athletics" events
+-Rowing, if I can find a scull to use
+-Sailing, if I can find a one-person sailboat to use.  Would be tough to match the conditions, though.
+-Shooting
+-Triathlon
+-Weightlifting
+
+Full event list:
+Diving
+-3 metre springboard (men and women)
+-10 metre platform (men and women)
+-synchronized 3 metre springboard (men and women)
+-synchronized 10 metre platform (men and women)
+Swimming
+-50 metre freestyle (men and women)
+-100 metre freestyle (men and women)
+-200 metre freestyle (men and women)
+-400 metre freestyle (men and women)
+-800 metre freestyle (women)
+-1500 metre freestyle (men)
+-100 metre backstroke (men and women)
+-200 metre backstroke (men and women)
+-100 metre breaststroke (men and women)
+-200 metre breaststroke (men and women)
+-100 metre butterfly (men and women)
+-200 metre butterfly (men and women)
+-200 metre individual medley (men and women)
+-400 metre individual medley (men and women)
+-4 × 100 metre freestyle relay (men and women)
+-4 × 200 metre freestyle relay (men and women)
+-4 × 100 metre medley relay (men and women)
+-Marathon 10 km (men and women)
+Synchronized swimming
+-team (women)
+-duet (women)
+Water polo
+-tournament (men and women)
+Canoe/kayak (sprint)
+-C-1 200 m (men)
+-C-1 1000 m (men)
+-C-2 1000 m (men)
+-K-1 200 m (men)
+-K-1 1000 m (men)
+-K-2 200 m (men)
+-K-2 1000 m (men)
+-K-4 1000 m (men)
+-K-1 500 m (women)
+-K-2 500 m (women)
+-K-4 500 m (women)
+Canoe/kayak (slalom)
+-C-1 (men)
+-C-2 (men)
+-K-1 (men and women)
+BMX
+-Individual (men and women)
+Mountain biking
+-Cross country (men and women)
+Road cycling
+-Road race, individual (men and women)
+-Road race, team (men)
+-Time trial, individual (men and women)
+-Time trial, team (men)
+Track cycling
+-Keirin (men and women)
+-Omnium (men and women)
+-Pursuit, team (men and women)
+-Sprint, individual (men and women)
+-Sprint, team (men and women)
+Gymnastics, artistic
+-All-around, team (men and women)
+-All-around, individual (men and women)
+-Floor exercise (men and women)
+-Horizontal bar (men)
+-Parallel bars (men)
+-Pommel horse (men)
+-Rings (men)
+-Vault (men and women)
+-Balance beam (women)
+-Uneven bars (women)
+Gymnastics, rhythmic
+-Individual all-around (women)
+-Group (women)
+Gymnastics, trampoline
+-Individual (men and women)
+Volleyball (beach)
+-Tournament (men and women)
+Volleyball (indoor)
+-Tournament (men and women)
+Equestrian
+-Show jumping, individual (unisex)
+-Show jumping, team (unisex)
+-Eventing, individual (unisex)
+-Eventing, team (unisex)
+-Dressage, individual (unisex)
+-Dressage, team (unisex)
+Wrestling
+-Men's weight classes: bantamweight, lightweight, welterweight, middleweight, heavyweight, super heavyweight
+-Women's weight classes: flyweight, bantamweight, lightweight, welterweight, middleweight, heavyweight
+-Greco-Roman (men)
+-Freestyle (men and women)
+Archery
+-Individual (men and women)
+-Team (men and women)
+Athletics
+-100m (men and women)
+-200m (men and women)
+-400m (men and women)
+-800m (men and women)
+-1500m (men and women)
+-5k (men and women)
+-10k (men and women)
+-marathon (men and women)
+-100m hurdles (women)
+-110m hurdles (men)
+-400m hurdles (men and women)
+-3k steeplechase (men and women)
+-4x100m relay (men and women)
+-4x400m relay (men and women)
+-20k race walk (men and women)
+-50k race walk (men)
+-High jump (men and women)
+-Pole vault (men and women)
+-Long jump (men and women)
+-Triple jump (men and women)
+-Shot put (men and women)
+-Discus throw (men and women)
+-Hammer throw (men and women)
+-Javelin throw (men and women)
+-Heptathlon (women)
+-Decathlon (men)
+Badminton
+-Singles (men and women)
+-Doubles (men and women)
+-Mixed doubles (unisex, one man, one woman per team)
+Basketball
+-Tournament (men and women)
+Boxing
+-Men's weight classes: Light-Flyweight, Flyweight, Bantamweight, Lightweight, Light-Welterweight, Welterweight, Middleweight, Light-Heavyweight, Heavyweight, Super-Heavyweight
+-Women's weight classes: Flyweight, Lightweight, Middleweight
+Fencing
+-Foil, individual (men and women)
+-Foil, team (men)
+-Epee, individual (men and women)
+-Epee, team (men and women)
+-Sabre, individual (men and women)
+-Sabre, team (women)
+Field hockey
+-Tournament (men and women)
+Football (soccer)
+-Tournament (men and women)
+Golf
+-Tournament (men and women)
+Handball
+-Tournament (men and women)
+Judo
+-Men's weight classes: 60kg, 66kg, 73kg, 81kg, 90kg, 100kg, +100kg
+-Women's weight classes: 48kg, 52kg, 57kg, 63kg, 70kg, 78kg, +78kg
+Modern pentathlon
+-Tournament (men and women)
+Rowing
+-Single sculls (men and women)
+-Pair (men and women)
+-Double sculls (men and women)
+-Lightweight double sculls (men and women)
+-Four (men)
+-Quadruple sculls (men and women)
+-Lightweight four (men)
+-Eight (men and women)
+Rugby sevens
+-Tournament (men and women)
+Sailing
+-RS:X (men and women)
+-Laser Radial (women)
+-Laser (men)
+-Finn (men)
+-470 (men and women)
+-49erFX (women)
+-49er (men)
+-Nacra 17 (unisex, one man, one woman per team)
+Shooting
+-50m rifle three positions (men and women)
+-50m rifle prone (men)
+-10m air rifle (men and women)
+-50m pistol (men)
+-25m pistol (women)
+-25m rapid-fire pistol (men)
+-10m air pistol (men and women)
+-Trap (men and women)
+-Double trap (men)
+-Skeet (men and women)
+Table tennis
+-Singles (men and women)
+-Team (men and women)
+Taekwondo
+-Men's and women's weight classes: flyweight, featherweight, middleweight, heavyweight
+Tennis
+-Singles (men and women)
+-Doubles (men and women)
+-Mixed doubles (unisex, one man, one woman per team)
+Triathlon
+-Olympic distance (men and women)
+Weightlifting
+-Men's weight classes: 56kg, 62kg, 69kg, 77kg, 85kg, 94kg, 105kg, +105kg
+-Women's weight classes: 48kg, 53kg, 58kg, 63kg, 69kg, 75kg, +75kg
