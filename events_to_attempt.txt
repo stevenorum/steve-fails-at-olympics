@@ -1,4 +1,4 @@
-Objective:
+Objective, have/can get equipment:
 Swimming-50 metre freestyle
 Swimming-100 metre freestyle
 Swimming-200 metre freestyle
@@ -14,14 +14,9 @@ Swimming-200 metre butterfly
 Swimming-200 metre individual medley
 Swimming-400 metre individual medley
 Swimming-Marathon 10 km
-Canoe sprint-200 m
-Canoe sprint-1000 m
-Kayak sprint-200 m
-Kayak sprint-1000 m
 Mountain biking-Cross country
 Road cycling-Road race
 Road cycling-Time trial
-Archery-Individual
 Athletics-100m
 Athletics-200m
 Athletics-400m
@@ -30,13 +25,27 @@ Athletics-1500m
 Athletics-5k
 Athletics-10k
 Athletics-marathon
+Athletics-20k race walk
+Athletics-50k race walk
+Shooting-50m rifle three positions
+Shooting-50m rifle prone
+Shooting-50m pistol
+Shooting-25m rapid-fire pistol
+Shooting-Trap
+Shooting-Double trap
+Shooting-Skeet
+Triathlon-Olympic distance
+Weightlifting-Men
+
+Objective, may not be able to get equipment:
+Canoe sprint-200 m
+Canoe sprint-1000 m
+Kayak sprint-200 m
+Kayak sprint-1000 m
+Archery-Individual
 Athletics-110m hurdles
 Athletics-400m hurdles
 Athletics-3k steeplechase
-Athletics-4x100m relay
-Athletics-4x400m relay
-Athletics-20k race walk
-Athletics-50k race walk
 Athletics-High jump
 Athletics-Pole vault
 Athletics-Long jump
@@ -48,17 +57,8 @@ Athletics-Javelin throw
 Athletics-Decathlon
 Modern pentathlon-Tournament
 Rowing-Single sculls
-Shooting-50m rifle three positions
-Shooting-50m rifle prone
 Shooting-10m air rifle
-Shooting-50m pistol
-Shooting-25m rapid-fire pistol
 Shooting-10m air pistol
-Shooting-Trap
-Shooting-Double trap
-Shooting-Skeet
-Triathlon-Olympic distance
-Weightlifting-Men
 
 Subjective:
 Diving-3 metre springboard
