@@ -1,5 +1,4 @@
-Diving-3 metre springboard
-Diving-10 metre platform
+Objective:
 Swimming-50 metre freestyle
 Swimming-100 metre freestyle
 Swimming-200 metre freestyle
@@ -19,17 +18,9 @@ Canoe sprint-200 m
 Canoe sprint-1000 m
 Kayak sprint-200 m
 Kayak sprint-1000 m
-BMX-Individual
 Mountain biking-Cross country
 Road cycling-Road race
 Road cycling-Time trial
-Gymnastics-Floor exercise
-Gymnastics-Horizontal bar
-Gymnastics-Parallel bars
-Gymnastics-Pommel horse
-Gymnastics-Rings
-Gymnastics-Vault
-Gymnastics-Trampoline
 Archery-Individual
 Athletics-100m
 Athletics-200m
@@ -68,3 +59,15 @@ Shooting-Double trap
 Shooting-Skeet
 Triathlon-Olympic distance
 Weightlifting-Men
+
+Subjective:
+Diving-3 metre springboard
+Diving-10 metre platform
+BMX-Individual
+Gymnastics-Floor exercise
+Gymnastics-Horizontal bar
+Gymnastics-Parallel bars
+Gymnastics-Pommel horse
+Gymnastics-Rings
+Gymnastics-Vault
+Gymnastics-Trampoline
