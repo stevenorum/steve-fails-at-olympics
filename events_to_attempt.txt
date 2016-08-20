@@ -1,0 +1,70 @@
+Diving-3 metre springboard
+Diving-10 metre platform
+Swimming-50 metre freestyle
+Swimming-100 metre freestyle
+Swimming-200 metre freestyle
+Swimming-400 metre freestyle
+Swimming-800 metre freestyle
+Swimming-1500 metre freestyle
+Swimming-100 metre backstroke
+Swimming-200 metre backstroke
+Swimming-100 metre breaststroke
+Swimming-200 metre breaststroke
+Swimming-100 metre butterfly
+Swimming-200 metre butterfly
+Swimming-200 metre individual medley
+Swimming-400 metre individual medley
+Swimming-Marathon 10 km
+Canoe sprint-200 m
+Canoe sprint-1000 m
+Kayak sprint-200 m
+Kayak sprint-1000 m
+BMX-Individual
+Mountain biking-Cross country
+Road cycling-Road race
+Road cycling-Time trial
+Gymnastics-Floor exercise
+Gymnastics-Horizontal bar
+Gymnastics-Parallel bars
+Gymnastics-Pommel horse
+Gymnastics-Rings
+Gymnastics-Vault
+Gymnastics-Trampoline
+Archery-Individual
+Athletics-100m
+Athletics-200m
+Athletics-400m
+Athletics-800m
+Athletics-1500m
+Athletics-5k
+Athletics-10k
+Athletics-marathon
+Athletics-110m hurdles
+Athletics-400m hurdles
+Athletics-3k steeplechase
+Athletics-4x100m relay
+Athletics-4x400m relay
+Athletics-20k race walk
+Athletics-50k race walk
+Athletics-High jump
+Athletics-Pole vault
+Athletics-Long jump
+Athletics-Triple jump
+Athletics-Shot put
+Athletics-Discus throw
+Athletics-Hammer throw
+Athletics-Javelin throw
+Athletics-Decathlon
+Modern pentathlon-Tournament
+Rowing-Single sculls
+Shooting-50m rifle three positions
+Shooting-50m rifle prone
+Shooting-10m air rifle
+Shooting-50m pistol
+Shooting-25m rapid-fire pistol
+Shooting-10m air pistol
+Shooting-Trap
+Shooting-Double trap
+Shooting-Skeet
+Triathlon-Olympic distance
+Weightlifting-Men
