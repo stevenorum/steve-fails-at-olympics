@@ -53,7 +53,7 @@ Athletics-Triple jump
 Athletics-Shot put
 Athletics-Discus throw
 Athletics-Hammer throw
-Athletics-Javelin throw
+Athletics-Kitten throw
 Athletics-Decathlon
 Modern pentathlon-Tournament
 Rowing-Single sculls
